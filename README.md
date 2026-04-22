@@ -33,9 +33,9 @@ This repository contains my personal projects, 42 School projects and projects f
 
 ### Finished Projects
 
-* **minishell:** 42 School project where I made a stripped-down clone of Bash, implementing pipes, redirections, heredocs, environment variable interpolation and string manipulations.
-* **Webserv:** 42 School project where I made an HTTP server supporting CGI, multiple real-time connections through a single `poll` system call, directory listing, file uploading, GET/POST/DELETE methods and significant HTTP/1.1 compliance.
-* **Transcendence:** Final 42 School project, finalizing my Common Core cursus. I made here a complete setup of a site health tracking program, using `docker` and `docker-compose` to automate the deployment, created the full stack application using Next.js, implemented authorization using Email+Password or OAuth with Github and safe database interaction when presented with untrusted user input.
+* **![minishell](https://github.com/9x14S/42-Cursus-minishell):** 42 School project where I made a stripped-down clone of Bash, implementing pipes, redirections, heredocs, environment variable interpolation and string manipulations.
+* **![Webserv](https://github.com/9x14S/42-Cursus-Webserv):** 42 School project where I made an HTTP server supporting CGI, multiple real-time connections through a single `poll` system call, directory listing, file uploading, GET/POST/DELETE methods and significant HTTP/1.1 compliance.
+* **![Transcendence](https://github.com/9x14S/42-Cursus-Transcendence):** Final 42 School project, finalizing my Common Core cursus. I made here a complete setup of a site health tracking program, using `docker` and `docker-compose` to automate the deployment, created the full stack application using Next.js, implemented authorization using Email+Password or OAuth with Github and safe database interaction when presented with untrusted user input.
 
 ### Current Focus
 * 🔍 **Research:** Gaining deeper experience reversing harder and more complex programs. Learning about breaking encryption algorithms and network protocols.
